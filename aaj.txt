@@ -1,0 +1,21 @@
+9olinux config file default.com, docker compose - changes 
+microservices 
+
+7/01/25
+HRMS 
+jar file delt
+backedn - target - jar
+java install -- jar generate java 17 
+clean command pom.xml run command 
+
+13/10/26
+Linux basic commands 
+
+14/10/26
+Networking commands of linux, shell scripting topic trainwithshubham
+
+20/10/26
+GIT and GITHUB - repo
+accc cretae , public repo , upload file in ec2 instance , commands
+terminal warun push 
+local laptop upload to git repo viseversa
